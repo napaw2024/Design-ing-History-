@@ -10,16 +10,16 @@ type WebSource = { label:string; url:string; context:string };
 type ImageCredit = { credit:string; url?:string };
 
 const images:Record<string,string>={
-  assignment_3:"/images/assignment3.png",assignment_5:"/images/assignment5.png",
-  assignment_7:"/images/assignment7.png",assignment_8:"/images/assignment8.gif",
-  assignment_9:"/images/assignment9.png",
-  assignment_12:"/images/assignment12.png",assignment_13:"/images/assignment13.jpeg",
-  assignment_15:"/images/stopp15.png",assignment_16:"/images/assignment16.png"
+  assignment_3:"images/assignment3.png",assignment_5:"images/assignment5.png",
+  assignment_7:"images/assignment7.png",assignment_8:"images/assignment8.gif",
+  assignment_9:"images/assignment9.png",
+  assignment_12:"images/assignment12.png",assignment_13:"images/assignment13.jpeg",
+  assignment_15:"images/stopp15.png",assignment_16:"images/assignment16.png"
 };
 const entryImages=(entry:Entry)=>{
   if(images[entry.id]) return [images[entry.id]];
   const photos=Array.isArray(entry.photo)?entry.photo:entry.photo?[entry.photo]:[];
-  return photos.map(photo=>`/images/${encodeURIComponent(photo)}`);
+  return photos.map(photo=>`images/${encodeURIComponent(photo)}`);
 };
 const backgroundOnlyEntries=new Set(["assignment_15"]);
 const theses=[
@@ -171,7 +171,7 @@ export default function Home(){
   const [sourcesOpen,setSourcesOpen]=useState(false);
   const visibleEntries=[...assignments,...notes];
   const sourceImages=[...new Set([
-    ...visibleEntries.flatMap(entry=>entryImages(entry).map(src=>decodeURIComponent(src.replace("/images/","")))),
+    ...visibleEntries.flatMap(entry=>entryImages(entry).map(src=>decodeURIComponent(src.replace("images/","")))),
     ...assignment31Exhibitions.flatMap(exhibition=>exhibition.images),
     "Frame 275.png","Frame 262.png","frisch.png","chip.png","stopp15.png"
   ])].sort((a,b)=>a.localeCompare(b,"de"));
@@ -210,9 +210,9 @@ export default function Home(){
   const orderThesisSelection=orderThesisHover==="all"?null:(orderThesisHover||orderThesisFilter);
   const activeThesisId=orderThesisSelection||(specialId?.startsWith("assignment_")?thesisByAssignment[specialId]:null);
   return <main ref={stageRef} className={`stage ${active?"has-active":""} ${vortex!=="idle"?`is-vortex-${vortex}`:""} ${active?.id==="assignment_34"?"is-archive-active":""} ${specialId==="assignment_11"?"is-frisch-collage":""} ${specialId==="assignment_15"?"is-stopp-collage":""} ${specialId==="assignment_17"?"is-chip-collage":""} ${specialId==="assignment_5"?"is-beige":""} ${specialId==="assignment_20"?"is-pink":""} ${specialId==="assignment_21"?"is-yellow":""} ${specialId==="assignment_26"?"is-red":""} ${specialId==="assignment_27"?"is-leitsystem-collage":""}`}>
-    <div className="object-collage-background frisch-collage-background" aria-hidden="true">{Array.from({length:18},(_,i)=><img key={i} style={{left:`${(i*31+5)%96}%`,top:`${(i*43+4)%92}%`,transform:`translate(-50%,-50%) rotate(${(i%9-4)*7}deg)`}} src="/images/frisch.png" alt=""/>)}</div>
-    <div className="object-collage-background stopp-collage-background" aria-hidden="true">{Array.from({length:20},(_,i)=><img key={i} style={{left:`${(i*41+4)%97}%`,top:`${(i*31+6)%91}%`,transform:`translate(-50%,-50%) rotate(${(i%9-4)*8}deg)`}} src="/images/stopp15.png" alt=""/>)}</div>
-    <div className="object-collage-background chip-collage-background" aria-hidden="true">{Array.from({length:22},(_,i)=><img key={i} style={{left:`${(i*37+3)%97}%`,top:`${(i*29+8)%91}%`,transform:`translate(-50%,-50%) rotate(${(i%11-5)*6}deg)`}} src="/images/chip.png" alt=""/>)}</div>
+    <div className="object-collage-background frisch-collage-background" aria-hidden="true">{Array.from({length:18},(_,i)=><img key={i} style={{left:`${(i*31+5)%96}%`,top:`${(i*43+4)%92}%`,transform:`translate(-50%,-50%) rotate(${(i%9-4)*7}deg)`}} src="images/frisch.png" alt=""/>)}</div>
+    <div className="object-collage-background stopp-collage-background" aria-hidden="true">{Array.from({length:20},(_,i)=><img key={i} style={{left:`${(i*41+4)%97}%`,top:`${(i*31+6)%91}%`,transform:`translate(-50%,-50%) rotate(${(i%9-4)*8}deg)`}} src="images/stopp15.png" alt=""/>)}</div>
+    <div className="object-collage-background chip-collage-background" aria-hidden="true">{Array.from({length:22},(_,i)=><img key={i} style={{left:`${(i*37+3)%97}%`,top:`${(i*29+8)%91}%`,transform:`translate(-50%,-50%) rotate(${(i%11-5)*6}deg)`}} src="images/chip.png" alt=""/>)}</div>
     <div className="object-collage-background leitsystem-collage-background" aria-hidden="true">{Array.from({length:20},(_,i)=><img key={i} style={{left:`${(i*41+4)%97}%`,top:`${(i*31+6)%91}%`,transform:`translate(-50%,-50%) rotate(${(i%9-4)*8}deg)`}} src={i%2===0?"/Frame%20275.png":"/Frame%20262.png"} alt=""/>)}</div>
     {view==="chaos"&&<div className="theses-layer" aria-hidden="true">{theses.map((thesis,index)=><span key={thesis.id} className={`thesis-word ${activeThesisId===thesis.id?"is-visible":""}`} style={{left:`${thesis.x}%`,top:`${thesis.y}%`,"--thesis-rotation":`${thesis.r}deg`,"--thesis-index":index} as React.CSSProperties}>{thesis.text}</span>)}</div>}
     {!active&&<svg className={`connections connections-${view}`} aria-hidden="true">
@@ -319,7 +319,7 @@ export default function Home(){
           {active.id==="assignment_31"?<div className="mini-exhibitions">{assignment31Exhibitions.map((exhibition,index)=><section className="mini-exhibition" key={exhibition.thesis}>
             <div className="mini-exhibition-copy"><span>{String(index+1).padStart(2,"0")}</span><h3>{exhibition.thesis}</h3><p>{exhibition.description}</p></div>
             <div className={`mini-exhibition-collage collage-count-${exhibition.images.length}`}>
-              {exhibition.images.map((name,imageIndex)=><img className={name==="london-underground-deutschlandfunk.png"?"image-contain":undefined} key={name} src={`/images/${encodeURIComponent(name)}`} alt={`${exhibition.thesis}, Auswahl ${imageIndex+1}`}/>)}
+              {exhibition.images.map((name,imageIndex)=><img className={name==="london-underground-deutschlandfunk.png"?"image-contain":undefined} key={name} src={`images/${encodeURIComponent(name)}`} alt={`${exhibition.thesis}, Auswahl ${imageIndex+1}`}/>)}
               {exhibition.links.map(link=><a key={link.url} href={link.url} target="_blank" rel="noreferrer"><small>WEBSITE ↗</small><strong>{link.label}</strong><span>{new URL(link.url).hostname.replace("www.","")}</span></a>)}
             </div>
           </section>)}</div>:!backgroundOnlyEntries.has(active.id)&&entryImages(active).map((src,index)=><img key={src} src={src} alt={`${clean(active.corner_text)||active.tag}, Abbildung ${index+1}`}/>)}
