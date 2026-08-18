@@ -200,12 +200,13 @@ export default function Home(){
     frame=requestAnimationFrame(measure);
     return()=>cancelAnimationFrame(frame);
   },[view,assignments.length,notes.length]);
-  const activeAssignmentIndex=active?.tag==="Assignment"?assignments.findIndex(entry=>entry.id===active.id):-1;
+  const activeSequence=active?.tag==="Notizen"?notes:assignments;
+  const activeEntryIndex=active?activeSequence.findIndex(entry=>entry.id===active.id):-1;
   const openEntry=(entry:Entry)=>{if(entry.id!=="assignment_34"){setActive(entry);return}if(vortex!=="idle")return;setHovered(null);setVortex("in");window.setTimeout(()=>setVortex("out"),760);window.setTimeout(()=>setVortex("idle"),1540)};
   const closeEntry=()=>setActive(null);
-  const showPrevious=()=>activeAssignmentIndex>=0&&setActive(assignments[(activeAssignmentIndex-1+assignments.length)%assignments.length]);
-  const showNext=()=>activeAssignmentIndex>=0&&setActive(assignments[(activeAssignmentIndex+1)%assignments.length]);
-  useEffect(()=>{const key=(e:KeyboardEvent)=>{if(e.key==="Escape"){setActive(null);setSourcesOpen(false)}if(activeAssignmentIndex>=0&&e.key==="ArrowLeft")setActive(assignments[(activeAssignmentIndex-1+assignments.length)%assignments.length]);if(activeAssignmentIndex>=0&&e.key==="ArrowRight")setActive(assignments[(activeAssignmentIndex+1)%assignments.length])};window.addEventListener("keydown",key);return()=>window.removeEventListener("keydown",key)},[activeAssignmentIndex,active?.id]);
+  const showPrevious=()=>activeEntryIndex>=0&&setActive(activeSequence[(activeEntryIndex-1+activeSequence.length)%activeSequence.length]);
+  const showNext=()=>activeEntryIndex>=0&&setActive(activeSequence[(activeEntryIndex+1)%activeSequence.length]);
+  useEffect(()=>{const key=(e:KeyboardEvent)=>{if(e.key==="Escape"){setActive(null);setSourcesOpen(false)}if(activeEntryIndex>=0&&e.key==="ArrowLeft")setActive(activeSequence[(activeEntryIndex-1+activeSequence.length)%activeSequence.length]);if(activeEntryIndex>=0&&e.key==="ArrowRight")setActive(activeSequence[(activeEntryIndex+1)%activeSequence.length])};window.addEventListener("keydown",key);return()=>window.removeEventListener("keydown",key)},[activeEntryIndex,active?.id]);
   const specialId=hovered||active?.id;
   const orderThesisSelection=orderThesisHover==="all"?null:(orderThesisHover||orderThesisFilter);
   const activeThesisId=orderThesisSelection||(specialId?.startsWith("assignment_")?thesisByAssignment[specialId]:null);
@@ -309,7 +310,7 @@ export default function Home(){
 
     {active&&<div className="overlay" onMouseDown={e=>e.currentTarget===e.target&&closeEntry()}>
       <button className="close" onClick={closeEntry} aria-label="Schließen">×</button>
-      {active.tag==="Assignment"&&<><button className="detail-arrow detail-prev" onClick={showPrevious} aria-label="Vorheriges Assignment">←</button><button className="detail-arrow detail-next" onClick={showNext} aria-label="Nächstes Assignment">→</button></>}
+      <><button className="detail-arrow detail-prev" onClick={showPrevious} aria-label={active.tag==="Notizen"?"Vorherige Notiz":"Vorheriges Assignment"}>←</button><button className="detail-arrow detail-next" onClick={showNext} aria-label={active.tag==="Notizen"?"Nächste Notiz":"Nächstes Assignment"}>→</button></>
       <article className="detail">
         <div className={`detail-content ${active.id==="assignment_24"?"story-detail":""}`}>
           <p className="kicker">{active.number}. {active.tag==="Notizen"?"NOTIZ":"ASSIGNMENT"}</p>
