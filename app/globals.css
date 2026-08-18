@@ -54,7 +54,7 @@
 .island.is-highlighted{transform:translate(-50%,-50%) scale(1.38);z-index:14}
 .island.is-highlighted:hover,.island.is-hovered{transform:translate(-50%,-50%) scale(1.55);z-index:18}
 .island.is-highlighted .sheet{transform:scale(1.18);transform-origin:center center}
-.note.is-highlighted{transform:translate(-50%,-50%) scale(1.32);z-index:14}
+.note.is-highlighted{transform:translate(-50%,-50%) scale(1.55);z-index:18}
 
 /* Sneaky Times ist die Serifenschrift der Dokumentation */
 h1,.giant,.placeholder,.meta,.tiny,.detail-content h2,.detail-content>p:last-child,.relation-ribbon{font-family:"Sneaky Times",serif}
