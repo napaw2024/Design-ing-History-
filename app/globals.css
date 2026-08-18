@@ -54,7 +54,7 @@
 .island.is-highlighted{transform:translate(-50%,-50%) scale(1.38);z-index:14}
 .island.is-highlighted:hover,.island.is-hovered{transform:translate(-50%,-50%) scale(1.55);z-index:18}
 .island.is-highlighted .sheet{transform:scale(1.18);transform-origin:center center}
-.note.is-highlighted{transform:translate(-50%,-50%) scale(1.55);z-index:18}
+.note.is-highlighted{transform:translate(-50%,-50%) scale(1.16);z-index:18}
 
 /* Sneaky Times ist die Serifenschrift der Dokumentation */
 h1,.giant,.placeholder,.meta,.tiny,.detail-content h2,.detail-content>p:last-child,.relation-ribbon{font-family:"Sneaky Times",serif}
@@ -281,7 +281,7 @@ img,svg,video,iframe{max-width:100%}
 @media(max-width:760px){
   html,body,.stage{width:100%;max-width:100%;overflow-x:hidden}
   header{left:2.5vw;right:2.5vw;top:1.4vh}
-  h1{width:100%;max-width:100%;font-size:12.7vw;line-height:.78;letter-spacing:-.07em;white-space:nowrap;text-align:left;text-align-last:auto}
+  h1{width:100%;max-width:100%;font-size:10.5vw;line-height:.82;letter-spacing:-.075em;white-space:nowrap;text-align:left;text-align-last:auto}
   header p{max-width:94vw;font-size:2.45vw;line-height:1.08}
   .toggle-row,.view-toggle{max-width:94vw}
   .field{left:0;right:0;overflow:hidden}
@@ -290,6 +290,9 @@ img,svg,video,iframe{max-width:100%}
   .order-theses,.order-row{left:0;right:0;max-width:100%}
   .order-thesis,.order-column{min-width:0;padding-left:3px;padding-right:3px}
   .order-column strong,.order-copy{width:100%;max-width:100%}
+  .order-assignments{display:flex;flex-wrap:wrap;align-content:flex-start;align-items:flex-start;height:56%;overflow:hidden}
+  .order-assignments .order-column{flex:0 0 calc(100% / 17);width:calc(100% / 17);height:28vh;padding-bottom:0;border-bottom:1px solid #000}
+  .order-assignments.has-row-hover .order-column,.order-assignments.has-row-hover .order-column.is-order-hovered{flex-grow:0;flex-basis:calc(100% / 17)}
   .overlay,.detail,.detail-content{max-width:100vw}
   .detail{padding-left:7vw;padding-right:7vw}
   .detail-content h2{font-size:clamp(40px,12vw,68px)}
