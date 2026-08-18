@@ -40,3 +40,9 @@ next-env.d.ts
 /.wrangler/
 /outputs/
 /work/
+
+# local editing documents and working snapshots
+/*.docx
+/*.pages
+/scripts/
+/versions/

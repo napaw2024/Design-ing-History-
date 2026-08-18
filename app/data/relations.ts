@@ -1,0 +1,57 @@
+export type RelationKind = "semantisch" | "geschichtlich";
+
+export type Relation = {
+  source: string;
+  target: string;
+  kind: RelationKind;
+};
+
+export const relations: Relation[] = [
+  ["assignment_2","assignment_4","geschichtlich"],
+  ["assignment_3","assignment_4","geschichtlich"],
+  ["assignment_3","assignment_30","semantisch"],
+  ["assignment_4","assignment_31","semantisch"],
+  ["assignment_4","assignment_32","semantisch"],
+  ["notizen_2","assignment_6","semantisch"],
+  ["assignment_6","assignment_24","geschichtlich"],
+  ["assignment_6","assignment_33","semantisch"],
+  ["assignment_7","assignment_8","semantisch"],
+  ["assignment_7","notizen_8","geschichtlich"],
+  ["assignment_8","assignment_24","semantisch"],
+  ["assignment_8","assignment_33","semantisch"],
+  ["notizen_7","assignment_9","geschichtlich"],
+  ["notizen_7","assignment_12","geschichtlich"],
+  ["assignment_9","assignment_11","semantisch"],
+  ["assignment_9","assignment_12","semantisch"],
+  ["assignment_10","assignment_11","semantisch"],
+  ["assignment_10","assignment_22","semantisch"],
+  ["assignment_13","notizen_6","semantisch"],
+  ["assignment_13","assignment_16","semantisch"],
+  ["assignment_13","assignment_27","semantisch"],
+  ["assignment_14","assignment_16","semantisch"],
+  ["notizen_5","assignment_15","semantisch"],
+  ["assignment_15","assignment_17","semantisch"],
+  ["assignment_15","assignment_27","semantisch"],
+  ["assignment_17","assignment_28","semantisch"],
+  ["assignment_18","notizen_7","semantisch"],
+  ["assignment_18","assignment_29","semantisch"],
+  ["assignment_19","notizen_4","semantisch"],
+  ["assignment_19","assignment_20","semantisch"],
+  ["assignment_19","assignment_31","semantisch"],
+  ["assignment_20","assignment_26","semantisch"],
+  ["assignment_21","notizen_3","semantisch"],
+  ["assignment_21","assignment_22","semantisch"],
+  ["assignment_22","assignment_23","geschichtlich"],
+  ["assignment_23","notizen_3","semantisch"],
+  ["assignment_23","assignment_33","semantisch"],
+  ["assignment_24","assignment_33","geschichtlich"],
+  ["assignment_25","assignment_26","semantisch"],
+  ["assignment_25","assignment_28","semantisch"],
+  ["assignment_27","assignment_28","semantisch"],
+  ["assignment_27","assignment_15","geschichtlich"],
+  ["assignment_29","assignment_30","semantisch"],
+  ["assignment_30","assignment_33","semantisch"],
+  ["assignment_31","assignment_32","geschichtlich"],
+  ["assignment_31","assignment_33","geschichtlich"],
+  ["assignment_32","notizen_8","semantisch"],
+].map(([source,target,kind]) => ({source,target,kind:kind as RelationKind}));

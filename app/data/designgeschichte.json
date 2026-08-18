@@ -3,889 +3,526 @@
     "id": "notizen_1",
     "tag": "Notizen",
     "number": "1",
-    "photo": "notiz1.jpg",
-    "corner_text": "N1",
-    "main_text": "Replace with your note text #1",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Kursauftakt – offene Notiz",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_2",
+    "keywords": [
+      "Mythos"
+    ],
     "tag": "Notizen",
     "number": "2",
-    "photo": "notiz2.jpg",
+    "photo": "",
     "corner_text": "N2 ›Gutes Design‹ und ›Designgeschichte‹",
-    "main_text": "Gedanken Thema Mythos\n\nDie wiederkehrenden Muster in Künstlerbiografien oder in der Designgeschichte haben sowohl Potential als auch Problematik. Als beschreibende Symbole erfüllen sie eine legitime Funktion: Sie helfen uns, Phänomene einzuordnen und Kategorien zu bilden. Sie diesen also dem Verständnis. Das Problem liegt jedoch im Reifikationsproblem: Das ursprünglich Beschreibende löst sich vom Beschriebenen, verselbstständigt sich und wird zum Subjekt. \n\nGedanken Adorno \n\nwir lieben Adorno, Zitat: Adorno bezeichnete moderne, reine Zweckbauten als „für Banausen angefertigte Etuis“",
-    "relationships": {
-      "semantisch": [
-        {
-          "id": "assignment_3",
-          "label": "thematische Nähe"
-        },
-        {
-          "id": "assignment_12",
-          "label": "ähnlicher Gestaltungsbegriff"
-        }
-      ],
-      "geschichtlich": [
-        {
-          "id": "assignment_18",
-          "label": "Das Ausgefallene"
-        },
-        {
-          "id": "assignment_12",
-          "label": "funktionales Versagen"
-        },
-        {
-          "id": "assignment_5",
-          "label": "Designkritik"
-        }
-      ],
-      "chronologisch": [
-        {
-          "id": "notizen_3",
-          "label": "folgt zeitlich darauf"
-        }
-      ]
-    }
+    "main_text": "Gedanken Thema Mythos\n\nDie wiederkehrenden Muster in Künstlerbiografien oder in der Designgeschichte haben sowohl Potential als auch Problematik. Als beschreibende Symbole erfüllen sie eine legitime Funktion: Sie helfen uns, Phänomene einzuordnen und Kategorien zu bilden. Sie diesen also dem Verständnis. Das Problem liegt jedoch im Reifikationsproblem: Das ursprünglich Beschreibende löst sich vom Beschriebenen,"
   },
   {
     "id": "notizen_3",
+    "keywords": [
+      "Identität",
+      "Persönlichkeit",
+      "Prägung"
+    ],
     "tag": "Notizen",
     "number": "3",
-    "photo": "notiz3.jpg",
-    "corner_text": "N3",
-    "main_text": "Replace with your note text #3",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Identitätsstiftend – zwei Perspektiven",
+    "main_text": "Identitätsstiftendes Design lässt sich aus zwei Richtungen betrachten. Einerseits kann Gestaltung auf bereits vorhandene Persönlichkeiten, Erfahrungen und Zugehörigkeiten eingehen: Ein Artefakt spricht bestimmte Menschen an, weil sie sich in seinen Formen, Zeichen oder Werten wiedererkennen. Andererseits kann Gestaltung Identität aktiv formen. Durch wiederholte Nutzung, Sichtbarkeit und gesellschaftliche Zuschreibung prägt ein Artefakt, wie Menschen sich selbst, eine Gruppe oder einen Ort verstehen. Identität ist damit nicht nur etwas, das Design abbildet, sondern auch etwas, das durch Design hervorgebracht und verändert wird."
   },
   {
     "id": "notizen_4",
+    "keywords": [
+      "Langlebigkeit",
+      "Kontext",
+      "Zielkonflikt"
+    ],
     "tag": "Notizen",
     "number": "4",
-    "photo": "notiz4.jpg",
-    "corner_text": "N4",
-    "main_text": "Replace with your note text #4",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Centennial Light – Langlebigkeit im Kontext",
+    "main_text": "Ich kann mir vorstellen, dass es möglich wäre, Glühbirnen nach ähnlichen Prinzipien wie die Centennial Light zu bauen. Das bedeutet aber nicht, dass neue Anforderungen ignoriert werden können – etwa die Erwartung hoher Helligkeit oder das häufige Ein- und Ausschalten. Allein durch die mit der Helligkeit verbundene Hitze und die Schaltzyklen verkürzt sich die Lebensdauer. Erst die Differenzierung und die Einbettung des Artefakts in seinen Kontext erzeugen ein vollständiges Bild. Nicht jedes Artefakt derselben Objektklasse besitzt dieselben Eigenschaften. Auch wenn zwei Gegenstände derselben Art angehören, können sie aufgrund unterschiedlicher Konstruktionen, Materialien, Betriebsbedingungen oder Zielsetzungen verschiedenen physikalischen und technischen Zielkonflikten unterliegen. Die Eigenschaften eines Artefakts lassen sich daher nicht isoliert, sondern nur im Verhältnis zu den Bedingungen verstehen, unter denen es entworfen, hergestellt und genutzt wird."
   },
   {
     "id": "notizen_5",
+    "keywords": [
+      "Information",
+      "Eindeutigkeit"
+    ],
     "tag": "Notizen",
     "number": "5",
-    "photo": "notiz5.jpg",
-    "corner_text": "N5",
-    "main_text": "Replace with your note text #5",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "informiert_notiz.png",
+    "corner_text": "Gutes Design informiert",
+    "main_text": "Coole Abbildung, wie intuitiv!"
   },
   {
     "id": "notizen_6",
+    "keywords": [
+      "Demokratisch",
+      "Rollstuhl",
+      "User Involvement",
+      "Emotion"
+    ],
     "tag": "Notizen",
     "number": "6",
-    "photo": "notiz6.jpg",
-    "corner_text": "N6",
-    "main_text": "Replace with your note text #6",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Demokratisches Design – Perspektiven der Analyse",
+    "main_text": "Besonders interessant fand ich die Studie zum Thema Rollstuhl. Sie zeigt anschaulich, dass auch der Objekttyp einen jeweils anderen Winkel der Analyse und Betrachtung benötigt. Beim Rollstuhl ist eine emotionale Perspektive besonders relevant, während andere Objekte möglicherweise stärker durch eine funktionale Analyse oder durch User Involvement untersucht werden müssen. Je nach Gegenstand können unterschiedliche Gefühle, Erfahrungen oder Gedanken der Nutzer*innen zum eigentlichen Gegenstand der Untersuchung werden. Demokratisches Design bedeutet damit auch, die Methode der Analyse an die Menschen, den Kontext und die spezifische Wirkung eines Artefakts anzupassen."
   },
   {
     "id": "notizen_7",
+    "keywords": [
+      "Affordance",
+      "Funktionalismus",
+      "Form follows function",
+      "HfG Ulm"
+    ],
     "tag": "Notizen",
     "number": "7",
-    "photo": "notiz7.jpg",
-    "corner_text": "N7",
-    "main_text": "Replace with your note text #7",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Affordance und Funktionalismus",
+    "main_text": "Affordance nach Donald Norman bezeichnet die Anzeichenfunktion innerhalb des Möglichkeitsraums einer Anwendung: Gestaltung vermittelt, welche Handlungen mit einem Objekt möglich erscheinen. Madeleine Akrich unterscheidet diesen Zusammenhang mit den Begriffen Inskription, Deskription und Re-Inskription noch detaillierter. Gestaltung schreibt bestimmte Nutzungen ein; Nutzer*innen lesen, übernehmen oder verändern diese Vorgaben.\n\n›Form follows function‹ wird häufig im Sinne eines formalen Minimalismus verwendet. Louis Sullivan benutzte den Satz jedoch eher als ordnendes Prinzip für Gestaltung, damit Architektur nicht beliebig oder widersprüchlich gestaltet wird. Bei Sullivan sind Objekte zugleich Zeichen. Dieser Gedanke wurde später am Bauhaus aufgegriffen und auf andere Artefakte übertragen – interessanterweise auch auf Objekte, die im klassischen Sinne nicht ausschließlich funktional sind. Das Bauhaus ist daher nicht der Ursprung des Funktionalismus.\n\nFunktionalismus versteht Design als wissenschaftliche, logische und methodische Disziplin für die industrielle Produktion. Catharine Beecher übertrug rationale und logische Haushaltsführung auf die Organisation von Küchen. Zwischen öder Gestaltung und intelligenter Reduktion verläuft dabei ein schmaler Grat, wie sich auch an der HfG Ulm zeigt.\n\nIn der Krise des Funktionalismus wurde die Verabsolutierung geometrischer Prinzipien kritisiert. Funktionalismus könne dadurch genau jene Erstarrung hervorbringen, die er selbst kritisiert: fehlende Phantasie, kapitalistische Bestätigung und die Reduktion von Gestaltung auf methodische Zweckmäßigkeit. Der Antifunktionalismus reagierte darauf mit Spaß, Ausdruck und formaler Freiheit – teilweise jedoch, ohne Gebrauch und Nutzbarkeit ausreichend zu berücksichtigen."
   },
   {
     "id": "notizen_8",
+    "keywords": [
+      "Schönheit",
+      "Wax Print",
+      "Repräsentation",
+      "Postkolonialismus",
+      "Gender"
+    ],
     "tag": "Notizen",
     "number": "8",
-    "photo": "notiz8.jpg",
-    "corner_text": "N8",
-    "main_text": "Replace with your note text #8",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "notiz_schoen1.png",
+    "corner_text": "Schönheit, Wax Print und Repräsentation",
+    "main_text": "Die Bilder erfüllen im Wikipedia-Artikel eine legitimierende Funktion: Sie verankern Wax Print visuell in afrikanischer Kultur und Alltagspraxis. Dabei tragen sie – unkommentiert – zur Vereinfachung einer komplexen postkolonialen Warengeschichte bei. Ein kritisch ausgewogener Artikel müsste die Spannung zwischen kultureller Aneignung, industrieller Herkunft und gelebter Identität explizit thematisieren.\n\nEine zentrale Problematik liegt in der identitätspolitischen Spannung: Wax Print wird als afrikanisch gelesen, ist historisch jedoch auch ein Exportprodukt niederländischer und britischer Unternehmen. Hinzu kommt eine Repräsentationspolitik, die vor allem ländliche und traditionelle Kontexte zeigt, während urbane Modekontexte fehlen. Auch die Gender-Dimension ist auffällig, da ausschließlich Frauen dargestellt werden. Die visuelle Zuschreibung von Schönheit ist damit nicht neutral, sondern an Auswahl, Perspektive und kulturelle Rahmung gebunden."
   },
   {
     "id": "notizen_9",
     "tag": "Notizen",
     "number": "9",
-    "photo": "notiz9.jpg",
-    "corner_text": "N9",
-    "main_text": "Replace with your note text #9",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 9",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_10",
     "tag": "Notizen",
     "number": "10",
-    "photo": "notiz10.jpg",
-    "corner_text": "N10",
-    "main_text": "Replace with your note text #10",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 10",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_11",
     "tag": "Notizen",
     "number": "11",
-    "photo": "notiz11.jpg",
-    "corner_text": "N11",
-    "main_text": "Replace with your note text #11",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 11",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_12",
     "tag": "Notizen",
     "number": "12",
-    "photo": "notiz12.jpg",
-    "corner_text": "N12",
-    "main_text": "Replace with your note text #12",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 12",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_13",
     "tag": "Notizen",
     "number": "13",
-    "photo": "notiz13.jpg",
-    "corner_text": "N13",
-    "main_text": "Replace with your note text #13",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 13",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_14",
     "tag": "Notizen",
     "number": "14",
-    "photo": "notiz14.jpg",
-    "corner_text": "N14",
-    "main_text": "Replace with your note text #14",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 14",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_15",
     "tag": "Notizen",
     "number": "15",
-    "photo": "notiz15.jpg",
-    "corner_text": "N15",
-    "main_text": "Replace with your note text #15",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 15",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_16",
     "tag": "Notizen",
     "number": "16",
-    "photo": "notiz16.jpg",
-    "corner_text": "N16",
-    "main_text": "Replace with your note text #16",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 16",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_17",
     "tag": "Notizen",
     "number": "17",
-    "photo": "notiz17.jpg",
-    "corner_text": "N17",
-    "main_text": "Replace with your note text #17",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 17",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_18",
     "tag": "Notizen",
     "number": "18",
-    "photo": "notiz18.jpg",
-    "corner_text": "N18",
-    "main_text": "Replace with your note text #18",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 18",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_19",
     "tag": "Notizen",
     "number": "19",
-    "photo": "notiz19.jpg",
-    "corner_text": "N19",
-    "main_text": "Replace with your note text #19",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 19",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "notizen_20",
     "tag": "Notizen",
     "number": "20",
-    "photo": "notiz20.jpg",
-    "corner_text": "N20",
-    "main_text": "Replace with your note text #20",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Offene Notiz – 20",
+    "main_text": "Replace with your note text"
   },
   {
     "id": "assignment_1",
     "tag": "Assignment",
     "number": "1",
-    "photo": "assignment1.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #1",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "assignment1.png",
+    "corner_text": "Steckbrief",
+    "main_text": ""
   },
   {
     "id": "assignment_2",
+    "keywords": [
+      "Kontext"
+    ],
     "tag": "Assignment",
     "number": "2",
     "photo": "",
-    "corner_text": "Gutes Design,  Definition",
-    "main_text": "am 14.04\nGestaltung von Prozessen und Produkten, mit idealerweise Bewusstheit und Einbezug der Gesamtheit des Systems und des Kontextes in dem sich diese befinden. System und Kontext erstreckt sich von subjektiven Bedürfnissen zur großweltlichen abstrakten Veränderungen.\nam 21.04\nDesign ist die bewusste Formgebung von Prozessen und Produkten im Wissen um ihre Einbettung in ein System, das über das Sichtbare hinausreicht — von den subjektiven Bedürfnissen und Wahrnehmungsweisen der Menschen bis zu den unsichtbaren sozialen Gefügen, institutionellen Logiken und großweltlichen Veränderungen, in die jede Entscheidung unweigerlich eingreift. Die Probleme, mit denen Design es zu tun hat, lassen sich weder vollständig formulieren noch abschließend lösen, denn jede Intervention verändert das Feld, in dem sie wirkt, sodass die Designentscheidung selbst, wieder den Kontext verändert. Was als Lösung gilt, trägt oder untergräbt die sozialen und kulturellen Zusammenhänge, die es umgeben. Design zielt also auf das meist Angemessene, es ist eine Annäherung an die Antwort über die Zukunft.",
-    "relationships": {
-      "semantisch": [
-        {
-          "id": "assignment_4",
-          "label": "thematische Nähe"
-        },
-        {
-          "id": "assignment_5",
-          "label": "ähnlicher Gestaltungsbegriff"
-        }
-      ],
-      "geschichtlich": [
-        {
-          "id": "assignment_12",
-          "label": "historischer Bezug"
-        }
-      ],
-      "chronologisch": [
-        {
-          "id": "assignment_3",
-          "label": "folgt zeitlich darauf"
-        }
-      ]
-    }
+    "corner_text": "Persönliche Definition von Design",
+    "main_text": "Gestaltung von Prozessen und Produkten – idealerweise mit Bewusstheit und unter Einbezug der Gesamtheit des Systems und des Kontextes, in dem sie sich befinden. System und Kontext erstrecken sich von subjektiven Bedürfnissen bis zu großweltlichen, abstrakten Veränderungen."
   },
   {
     "id": "assignment_3",
+    "keywords": [
+      "Design"
+    ],
     "tag": "Assignment",
     "number": "3",
     "photo": "assignment3.png",
     "corner_text": "DESIGN",
-    "main_text": "",
-    "relationships": {
-      "semantisch": [
-        {
-          "id": "assignment_2",
-          "label": "thematische Nähe"
-        },
-        {
-          "id": "notizen_2",
-          "label": "ähnlicher Gestaltungsbegriff"
-        }
-      ],
-      "geschichtlich": [
-        {
-          "id": "assignment_8",
-          "label": "historischer Bezug"
-        }
-      ],
-      "chronologisch": [
-        {
-          "id": "assignment_4",
-          "label": "folgt zeitlich darauf"
-        }
-      ]
-    }
+    "main_text": ""
   },
   {
     "id": "assignment_4",
+    "keywords": [
+      "Funktion"
+    ],
     "tag": "Assignment",
     "number": "4",
     "photo": "",
-    "corner_text": "funktionales Design, Definition",
-    "main_text": "gutes Design ist funktional und ästhetisch. \n\n\n\ngutes design schließt Kontext und System ein. Es belohnt, dialogisiert und ist dabei reflektiert also handelt moralisch.\n\nwenn man moral jedoch aus dem Wege lässt und sich dem reinen Pragmatismus gibt, dann ist gutes design eins das funktioniert (zweck erfüllt), ohne das System mit Moral zu beachten.\n\nDeswegen denke ich, dass meine erste Definition doch die objektivste ist, denn Moral ist subjektiv. Das ist eh meine Frage, sollen die Definitionen eine Allgemeinheit beschreiben oder unsere eigene Meinung abbilden?",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Was ist gutes Design? Zwei Definitionen",
+    "main_text": "Vor den Videos, 14.04: Gestaltung von Prozessen und Produkten – idealerweise mit Bewusstheit und unter Einbezug der Gesamtheit des Systems und des Kontextes, in dem sie sich befinden. System und Kontext erstrecken sich von subjektiven Bedürfnissen bis zu großweltlichen, abstrakten Veränderungen.\n\nNach den Videos, 21.04: Design ist die bewusste Formgebung von Prozessen und Produkten im Wissen um ihre Einbettung in ein System, das über das Sichtbare hinausreicht – von den subjektiven Bedürfnissen und Wahrnehmungsweisen der Menschen bis zu den unsichtbaren sozialen Gefügen, institutionellen Logiken und großweltlichen Veränderungen, in die jede Entscheidung unweigerlich eingreift. Die Probleme, mit denen Design es zu tun hat, lassen sich weder vollständig formulieren noch abschließend lösen, denn jede Intervention verändert das Feld, in dem sie wirkt. Was als Lösung gilt, trägt oder untergräbt die sozialen und kulturellen Zusammenhänge, die es umgeben. Design zielt also auf das jeweils Angemessene; es ist eine Annäherung an eine Antwort auf die Zukunft."
   },
   {
     "id": "assignment_5",
+    "keywords": [
+      "Versagen"
+    ],
     "tag": "Assignment",
     "number": "5",
     "photo": "assignment5.png",
     "corner_text": "Design, das Versagen",
-    "main_text": "",
-    "relationships": {
-      "semantisch": [
-        {
-          "id": "assignment_2",
-          "label": "thematische Nähe"
-        },
-        {
-          "id": "assignment_10",
-          "label": "ähnlicher Gestaltungsbegriff"
-        }
-      ],
-      "geschichtlich": [
-        {
-          "id": "assignment_18",
-          "label": "historischer Bezug"
-        }
-      ],
-      "chronologisch": [
-        {
-          "id": "assignment_6",
-          "label": "folgt zeitlich darauf"
-        }
-      ]
-    }
+    "main_text": ""
   },
   {
     "id": "assignment_6",
+    "keywords": [
+      "Geschichte"
+    ],
     "tag": "Assignment",
     "number": "6",
-    "photo": "assignment6.jpg",
+    "photo": "metalab_interface_dante.jpg",
     "corner_text": "Geschichtsvisualisierung",
-    "main_text": "6a) https://vimeo.com/145423437?turnstile=1.2E_3oplF3ezk30thzXP1RgFqiGgdRFyGu02FQBjKXQLaPetQEjq8td_Wjdc8477o6wcMcv-wiw_ZvVDGBmnBmI2gUFtQYf7lhiRyRy0oZ9QCG38iFa5w0aRa1foVrGoKWx0xCl2tvruGe72b3fd-8B3xcjjR--hVg8K6KcwLvuOAmAoQ3gp4IZUobgMX9tItnInvHA12xKB3ML8K0Zj-8ot23EmxAQxLWhV1q8Y-hzGu9e2xgauTQLo1j6ebMyij7IJDXh7bkL3IHXh54f8YQh0neArMJ0k6Me10bNisZ3fPf4dFFSpuqFsj7f1cxghwAQDjDNZdPeEvpLi0eEw_SeB2w9a8in0tuDoLxwban93xWGugs-l2TIgjZ_uBTPHNANwMzqf5AIHnsvVCejZnHdJZIRJyg5bn-8DA_mRGP_p8Nlp858kYQ2WQ9M2gaRK--2h594giVkbamrJdXthe30lb3oZnAr4YeVE7MbC5_ZxNrtfYi7c8NbqL7__PT7LPLI4CMlOVJmnCtjgxigv6ZH2DAQjXeRPUGBSB8WeT8lRnzvCSAgJFpCgzkNwDNmcUO0VD8hGOW_VEKWxRBZsAC4yQm5J8L_5rJC9VaURBUZgdmTFgQv9a7gd11iILxu-nDtmiXfVIs4-_74qp3iMJow.SrLUqs28QneEgLVMBKUosg.abc7856388a56b493c220a37b402d8ee610112c1fd89539df4606edcf32a47cc \nEin Interface, das es Geisteswissenschaftlern ermöglicht, die Verbreitung von Schriftwerken über geografischen Raum und Zeit hinweg zu kartieren, um neue Fragen zur Literaturgeschichte zu stellen. Zeit wird auf der vertikalen Achse dargestellt, Raum auf der horizontalen Ebene. Die Anwendung wurde konkret von Dante-Forschern genutzt, um Druckausgaben und Handschriften der Divina Commedia zu visualisieren.\n1. Zwei Dimensionen, eine Aussage Zeit (vertikal) und Raum (horizontal) werden gleichzeitig lesbar — das ist eine Erkenntnisgeste: Man sieht auf einen Blick, wann und wo ein Werk zirkulierte.\n2. Vom Text zur Biographie Der Begriff „Buchbiographie\" ist konzeptuell stark: Nicht der Autor, sondern das Werk selbst bekommt eine Lebensgeschichte — Entstehung, Verbreitung, Übersetzung, Rezeption. Das ist eine originelle historische Fragestellung, die erst durch die Visualisierung möglich wird.\n3. Wissenschaftliche Datenkontrolle Die Daten können entweder über die WorldCat-API abgerufen und iterativ bearbeitet werden, oder sie werden vom Forscher selbst kuratiert und in einer Tabelle organisiert. Das bedeutet: kein Blackbox-Algorithmus, sondern transparente, wissenschaftlich verantwortete Datenbasis.\n4. Skalierbarkeit des Ansatzes Was für Dante funktioniert, funktioniert für jedes andere Werk — die Methode ist übertragbar auf andere Epochen, Sprachen, Gattungen. Das macht es zu einem Werkzeug und nicht nur zu einer einmaligen Visualisierung.\n5. Digital Humanities als Brückendisziplin Das Projekt verbindet Bibliothekswissenschaft (WorldCat), Informatik (GitHub, API) und Literaturwissenschaft — ein Paradebeispiel dafür, wie Digital Humanities neue historische Perspektiven eröffnen.\nBook Biography Machine macht es möglich  eigene historische Fragen zu stellen und sichtbar zu machen. \n6) Vergangenheit das eigentlich Geschehen im Kontext, vernetzte komplex, nicht linear, also als System\n\nGeschichte ist ein narrativ auch wenn es nicht eins sein möchte. Alleine das macht es wieder zu einem Narrativ.\nEs kann garnicht keins sein, weil Vergangenheit selbst keine omnipotente Wahrheit ist.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "6a) https://vimeo.com/145423437?turnstile=1.2E_3oplF3ezk30thzXP1RgFqiGgdRFyGu02FQBjKXQLaPetQEjq8td_Wjdc8477o6wcMcv-wiw_ZvVDGBmnBmI2gUFtQYf7lhiRyRy0oZ9QCG38iFa5w0aRa1foVrGoKWx0xCl2tvruGe72b3fd-8B3xcjjR--hVg8K6KcwLvuOAmAoQ3gp4IZUobgMX9tItnInvHA12xKB3ML8K0Zj-8ot23EmxAQxLWhV1q8Y-hzGu9e2xgauTQLo1j6ebMyij7IJDXh7bkL3IHXh54f8YQh0neArMJ0k6Me10bNisZ3fPf4dFFSpuqFsj7f1cxghwAQDjDNZdPeEvpLi0eEw_SeB2w9a8in0tuDoLxwban93xWGugs-l2TIgjZ_uBTPHNANwMzqf5AIHnsvVCejZnHdJZIRJyg5bn-8DA_mRGP_p8Nlp858kYQ2WQ9M2gaRK--2h594giVkbamrJdXthe30lb3oZnAr4YeVE7MbC5_ZxNrtfYi7c8NbqL7__PT7LPLI4CMlOVJmnCtjgxigv6ZH2DAQjXeRPUGBSB8WeT8lRnzvCSAgJFpCgzkNwDNmcUO0VD8hGOW_VEKWxRBZsAC4yQm5J8L_5rJC9VaURBUZgdmTFgQv9a7gd11iILxu-nDtmiXfVIs4-_74qp3iMJow.SrLUqs28QneEgLVMBKUosg.abc7856388a56b493c220a37b402d8ee610112c1fd89539df4606edcf32a47cc \nEin Interface, das es Geisteswissenschaftlern ermöglicht, die Verbreitung von Schriftwerken über geografischen Raum und Zeit hinweg zu kartieren, um neue Fragen zur Literaturgeschichte zu stellen. Zeit wird auf der vertikalen Achse dargestellt, Raum auf der horizontalen Ebene. Die Anwendung wurde konkret von Dante-Forschern genutzt, um Druckausgaben und Handschriften der Divina Commedia zu visualisieren.\n1. Zwei Dimensionen, eine Aussage Zeit (vertikal) und Raum (horizontal) werden gleichzeitig lesbar — das ist eine Erkenntnisgeste: Man sieht auf einen Blick, wann und wo ein Werk zirkulierte.\n2. Vom Text zur Biographie Der Begriff „Buchbiographie\" ist konzeptuell stark: Nicht der Autor, sondern das Werk selbst bekommt eine Lebensgeschichte — Entstehung, Verbreitung, Übersetzung, Rezeption. Das ist eine originelle historische Fragestellung, die erst durch die Visualisierung möglich wird.\n3. Wissenschaftliche Datenkontrolle Die Daten können entweder über die WorldCat-API abgerufen und iterativ bearbeitet werden, oder sie werden vom Forscher selbst kuratiert und in einer Tabelle organisiert. Das bedeutet: kein Blackbox-Algorithmus, sondern transparente, wissenschaftlich verantwortete Datenbasis.\n4. Skalierbarkeit des Ansatzes Was für Dante funktioniert, funktioniert für jedes andere Werk — die Methode ist übertragbar auf andere Epochen, Sprachen, Gattungen. Das macht es zu einem Werkzeug und nicht nur zu einer einmaligen Visualisierung.\n5. Digital Humanities als Brückendisziplin Das Projekt verbindet Bibliothekswissenschaft (WorldCat), Informatik (GitHub, API) und Literaturwissenschaft — ein Paradebeispiel dafür, wie Digital Humanities neue historische Perspektiven eröffnen.\nBook Biography Machine macht es möglich  eigene historische Fragen zu stellen und sichtbar zu machen. \n6) Vergangenheit das eigentlich Geschehen im Kontext, vernetzte komplex, nicht linear, also als System\n\nGeschichte ist ein narrativ auch wenn es nicht eins sein möchte. Alleine das macht es wieder zu einem Narrativ.\nEs kann garnicht keins sein, weil Vergangenheit selbst keine omnipotente Wahrheit ist."
   },
   {
     "id": "assignment_7",
+    "keywords": [
+      "Schönheit"
+    ],
     "tag": "Assignment",
     "number": "7",
     "photo": "assignment7.png",
     "corner_text": "Gutes Design ist schön, Artefakt",
-    "main_text": "Schön heißt, da gibt es Inhalt, etwas, womit man sich auseinandersetzen kann, auf eine angenehme Art. Schön hat eine positive Wirkung auf einen, das ist aber subjektiv: Das, was von einem als schön wahrgenommen wird, kann auf einen anderen eine negative Wirkung entfalten. Schön heißt, es entsteht ein Dialog, wahrscheinlich einer, der von dem Schönen initiiert wird. Schön heißt also: berührend.\nEin Artefakt, das mich berührt hat, ist dieses sizilianische Blech – ein lithografiertes Etikett aus dem späten 19. Jahrhundert, das einst um eine Thunfischdose gewickelt wurde. Es hing in einer Garage in Trapani, Sizilien.\nDie Dose hat mich berührt, indem sie in der so kühlen Garage, die auf eine Art die Kühle der Insel verkörperte, auf eine ambivalente Art genau diese Härte der Insel Sizilien durch die Ornamente kontrastierte, aber gleichzeitig in der Farbigkeit des Roten und Gelben im Ausdruck einer feurigen Gewalt wiedergab (Kontext Einbezug) Ich bin mir sicher, andere haben eine andere Empfindung der Insel – zumindest introspektiv –, und damit auch eine andere Empfindung der Dose.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Schön heißt, da gibt es Inhalt, etwas, womit man sich auseinandersetzen kann, auf eine angenehme Art. Schön hat eine positive Wirkung auf einen, das ist aber subjektiv: Das, was von einem als schön wahrgenommen wird, kann auf einen anderen eine negative Wirkung entfalten. Schön heißt, es entsteht ein Dialog, wahrscheinlich einer, der von dem Schönen initiiert wird. Schön heißt also: berührend.\nEin Artefakt, das mich berührt hat, ist dieses sizilianische Blech – ein lithografiertes Etikett aus dem späten 19. Jahrhundert, das einst um eine Thunfischdose gewickelt wurde. Es hing in einer Garage in Trapani, Sizilien.\nDie Dose hat mich berührt, indem sie in der so kühlen Garage, die auf eine Art die Kühle der Insel verkörperte, auf eine ambivalente Art genau diese Härte der Insel Sizilien durch die Ornamente kontrastierte, aber gleichzeitig in der Farbigkeit des Roten und Gelben im Ausdruck einer feurigen Gewalt wiedergab (Kontext Einbezug) Ich bin mir sicher, andere haben eine andere Empfindung der Insel – zumindest introspektiv –, und damit auch eine andere Empfindung der Dose."
   },
   {
     "id": "assignment_8",
+    "keywords": [
+      "Geschmack"
+    ],
     "tag": "Assignment",
     "number": "8",
     "photo": "assignment8.gif",
     "corner_text": "Mein Geschmack",
-    "main_text": "Mein Geschmack kommt aus Polen.\nMeine Eltern, wuchsen in Verhältnissen auf, die zwar auf verschiedene Art und Weise aber beide einengend, reglementierend und vor allem stark bewertend waren. Der Katholizismus, der Kommunismus, Academia.\nSie entwickelten daraufhin eine rebellische Haltung. Der Buddhismus als Antwort auf das Christentum, der Alkohol als Antwort auf die enge Bewertung – der jedoch gleichzeitig und natürlich Teil des Konservatismus selbst war – und die Kunst, als Antwort auf alles.\nSomit ist mein Geschmack einer, der von einer Pathologie gezeichnet ist, Tiefes spürt und Tiefes gut findet. Er trägt die Rebellion als Ausdruck meiner Eltern, und den Konservatismus, der sich dann – wie jedes durch Rebellion Bewertete – genau wieder in ihr wiederfindet.\nIch mag edle Sachen. Ich mag anspruchsvolle Sachen, die der Komplexität dieser Tatsachen gerecht werden. Ich mag es aber nicht, wenn Dinge versuchen etwas zu sein, was sie nicht sind. Ich mag Ehrlichkeit, da ohne sie die Aufarbeitung dieser Verhältnisse nicht möglich ist. \nIch mag Kritik, die differenziert ist und Ambivalenzen aushalten kann.\nIch mag Nick Cave, CTM crew, Zdzisław Beksiński und Rachmaninoff.\nFür mich sind Dinge gut, die nicht abschließend etwas sind, sondern prozesshaft bleiben.\nWütend macht mich die Abstoßung der Differenzierung, egal ob aus fehlender Selbstreflexion, Dummheit oder Verdrängung. Doch auch wie überall, ist das nur das Abbild meiner eigener Abstoßung dieser Teile in mir. Ich wünsche mir, ich könnte Oberflächlichkeit und Leichtigkeit gut finden, sie ausstrahlen und sie mehr genießen. Es ist also eine Sehnsucht, die erst durch ihre Transzendenz in mir zur Ruhe kommen mag. Die Einfachheit spielt hingegen oder genau deshalb eine große Rolle. Sie bewegt sich and der Grenze zu Plakativität und erreicht somit in meinen Augen den höhsten Wert – einen ehrlichen und einen mit einer großartigen Wirkung.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Mein Geschmack kommt aus Polen.\nMeine Eltern, wuchsen in Verhältnissen auf, die zwar auf verschiedene Art und Weise aber beide einengend, reglementierend und vor allem stark bewertend waren. Der Katholizismus, der Kommunismus, Academia.\nSomit ist mein Geschmack einer, der von einer Pathologien gezeichnet ist, Tiefes spürt und Tiefes gut findet. Er trägt die Rebellion als Ausdruck meiner Eltern, und den Konservatismus, der sich dann – wie jedes durch Rebellion Bewertete – genau wieder in ihr wiederfindet.\nIch mag edle Sachen. Ich mag anspruchsvolle Sachen, die der Komplexität dieser Tatsachen gerecht werden. Ich mag es aber nicht, wenn Dinge versuchen etwas zu sein, was sie nicht sind. Ich mag Ehrlichkeit, da ohne sie die Aufarbeitung dieser Verhältnisse nicht möglich ist. \nIch mag Kritik, die differenziert ist und Ambivalenzen aushalten kann.\nIch mag Nick Cave, DRM crew, Zdzisław Beksiński und Rachmaninoff.\nFür mich sind Dinge gut, die nicht abschließend etwas sind, sondern prozesshaft bleiben.\nWütend macht mich die Abstoßung der Differenzierung, egal ob aus fehlender Selbstreflexion, Dummheit oder Verdrängung. Doch auch wie überall, ist das nur das Abbild meiner eigener Abstoßung dieser Teile in mir. Ich wünsche mir, ich könnte Oberflächlichkeit und Leichtigkeit gut finden, sie ausstrahlen und sie mehr genießen. Es ist also eine Sehnsucht, die erst durch ihre Transzendenz in mir zur Ruhe kommen mag. Die Einfachheit spielt hingegen oder genau deshalb eine große Rolle. Sie bewegt sich and der Grenze zu Plakativität und erreicht somit in meinen Augen den höhsten Wert – einen ehrlichen und einen mit einer großartigen Wirkung."
   },
   {
     "id": "assignment_9",
+    "keywords": [
+      "Form follows function"
+    ],
     "tag": "Assignment",
     "number": "9",
     "photo": "assignment9.png",
     "corner_text": "Gutes Design ist funktional, Artefakt",
-    "main_text": "Funktionales Design zeigt sich an der ESPRESSIVO darin, dass sie das Prinzip \n„form follows function“ nach Louis Sullivan erkennbar umsetzt: Verstellen, Ausrichten, Beleuchten ist in der Art wie sie gestakten ist sichtbar, also sichtrbare gelenke etc. \nGleichzeitig folgt sie also den Ideen von Don Norman, indem ihre Gestaltung intuitiv verständlich macht, wie sie zu benutzen ist. Obwohl ihre Beweglichkeit begrenzt ist, liegt darin auch eine Stärke: Die Einschränkung schafft Klarheit, Stabilität und eine eindeutige Nutzung, statt beliebiger Flexibilität.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Funktionales Design zeigt sich an der ESPRESSIVO darin, dass sie das Prinzip \n„form follows function“ nach Louis Sullivan erkennbar umsetzt: Verstellen, Ausrichten, Beleuchten ist in der Art wie sie gestaltet ist sichtbar, also sichtbare Gelenke etc. \nGleichzeitig folgt sie also den Ideen von Don Norman, indem ihre Gestaltung intuitiv verständlich macht, wie sie zu benutzen ist. Obwohl ihre Beweglichkeit begrenzt ist, liegt darin auch eine Stärke: Die Einschränkung schafft Klarheit, Stabilität und eine eindeutige Nutzung, statt beliebiger Flexibilität."
   },
   {
     "id": "assignment_10",
+    "keywords": [
+      "Alltag"
+    ],
     "tag": "Assignment",
     "number": "10",
     "photo": "",
-    "corner_text": "",
-    "main_text": "1. Artefact I use the most mein Handy\n2. Artefact I understand surprisingly well Tasse\n3. Artefact I wish for the most ATP Tabletten\n4. Artefact with the highest emotional value Ring nach Omi\n\n\na.\n1. immer dabei haben können, handlich bunt und glitzernd\n2. no margin for error really\n3. natürliche Art aufzuladen, ohne Hormone und Disregulation, also gesund\n4. klein, sieht alt aus und ist bisschen kaputt, also bildet die Geschichte ab, die es repräsentiert, auch immer dabei haben können\nb. welche anderen Faktoren mit hinein spielen. z.B. gesellschaftliche Erwartung der ständigen Erreichbarkeit, Erinnerungen, Gewohnheiten.\n1. absolute Abhängigkeit, existenziell, also nicht sucht sondern funktional, aber auch Sucht :D, Flucht und Spaß \n2. die Tasse könnte zweckentfremdet werden, als etwas wo ich Blumen reinstellen würde oder wenn ich sie zerschmettre als Messer, aber man hat sich darauf geeinigt dass Tassen in ihrer Form (klein nicht zu gr0ß) dann doch perfekt sind für die Menge Flüssigkeit die warm bleibt während man entspannt den Tee sippt. \n3. viele Assignments an der Uni\n4. Ringe hatten ja schon immer diese komische Bedeutung, dass ie etwa über den Familiennamen aussagen, Signatur usw. da shat sich anscheinend bei mir so übertragen, es bündelt sich der Stolz und die Liebe in einen Gegenstand zusammen, der durch die Gesellschaftliche Prägung diese Bündelung einleitet",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Vier Artefakte meines Alltags",
+    "main_text": "1. Artefact I use the most: mein Handy\n2. Artefact I understand surprisingly well: Tasse\n3. Artefact I wish for the most: ATP Tabletten\n4. Artefact with the highest emotional value: Ring nach Omi\n\na.\n1. immer dabei haben können, handlich bunt und glitzernd\n2. no margin for error really\n3. natürliche Art aufzuladen, ohne Hormone und Disregulation, also gesund\n4. klein, sieht alt aus und ist bisschen kaputt, also bildet die Geschichte ab, die es repräsentiert, auch immer dabei haben können\nb. welche anderen Faktoren mit hinein spielen. z.B. gesellschaftliche Erwartung der ständigen Erreichbarkeit, Erinnerungen, Gewohnheiten.\n1. absolute Abhängigkeit, existenziell, also nicht sucht sondern funktional, aber auch Sucht :D, Flucht und Spaß \n2. die Tasse könnte zweckentfremdet werden, als etwas wo ich Blumen reinstellen würde oder wenn ich sie zerschmettre als Messer, aber man hat sich darauf geeinigt dass Tassen in ihrer Form (klein nicht zu groß) dann doch perfekt sind für die Menge Flüssigkeit die warm bleibt während man entspannt den Tee sippt. \n3. viele Assignments an der Uni\n4. Ringe hatten ja schon immer diese komische Bedeutung, dass ie etwa über den Familiennamen aussagen, Signatur usw. da shat sich anscheinend bei mir so übertragen, es bündelt sich der Stolz und die Liebe in einen Gegenstand zusammen, der durch die Gesellschaftliche Prägung diese Bündelung einleitet"
   },
   {
     "id": "assignment_11",
+    "keywords": [
+      "Unscheinbar"
+    ],
     "tag": "Assignment",
     "number": "11",
     "photo": "assignment11.png",
     "corner_text": "Heimlicher Held",
-    "main_text": "Der Frischhalteclip ist ein unscheinbares, aber durchdachtes Alltagsprodukt. Er verschließt geöffnete Verpackungen schnell und zuverlässig, hält Lebensmittel länger frisch und ist wiederverwendbar. Durch seine einfache Form ist er intuitiv bedienbar. Ein kleines Designobjekt, das Funktionalität und Komfort effizient miteinander verbindet.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Der Frischhalteclip ist ein unscheinbares, aber durchdachtes Alltagsprodukt. Er verschließt geöffnete Verpackungen schnell und zuverlässig, hält Lebensmittel länger frisch und ist wiederverwendbar. Durch seine einfache Form ist er intuitiv bedienbar. Ein kleines Designobjekt, das Funktionalität und Komfort effizient miteinander verbindet."
   },
   {
     "id": "assignment_12",
+    "keywords": [
+      "Frustration"
+    ],
     "tag": "Assignment",
     "number": "12",
     "photo": "assignment12.png",
     "corner_text": "Design Versagen auf funktionaler Ebene",
-    "main_text": "Gesucht: Die frustrierende Käsereibe\nDieses Objekt fällt durch seine umständliche Handhabung im Alltag auf. Die Nutzung ist oft mega nervig: Man muss viel Kraft aufwenden und aus verschiedenen Winkeln drücken, damit überhaupt etwas passiert – und dann kommt trotzdem nur wenig Käse heraus. Man muss das eine Stück gegen den Bauch drücken und gleichzeitig den Deckel nach unten und dann noch drehen. Am Ende bleibt immer eine dünne Scheibe übrig, die sich nicht mehr sinnvoll reiben lässt. Das Produkt versagt auf der funktionalen Ebene, da es seine Hauptaufgabe ineffizient erfüllt. Zusätzlich leidet die Benutzerfreundlichkeit, weil der Prozess unnötig anstrengend und unpräzise ist.",
-    "relationships": {
-      "semantisch": [
-        {
-          "id": "notizen_2",
-          "label": "thematische Nähe"
-        }
-      ],
-      "geschichtlich": [
-        {
-          "id": "assignment_2",
-          "label": "historischer Bezug"
-        },
-        {
-          "id": "assignment_18",
-          "label": "gleicher Kontext"
-        }
-      ],
-      "chronologisch": [
-        {
-          "id": "assignment_13",
-          "label": "folgt zeitlich darauf"
-        }
-      ]
-    }
+    "main_text": "Gesucht: Die frustrierende Käsereibe\nDieses Objekt fällt durch seine umständliche Handhabung im Alltag auf. Die Nutzung ist oft mega nervig: Man muss viel Kraft aufwenden und aus verschiedenen Winkeln drücken, damit überhaupt etwas passiert – und dann kommt trotzdem nur wenig Käse heraus. Man muss das eine Stück gegen den Bauch drücken und gleichzeitig den Deckel nach unten und dann noch drehen. Am Ende bleibt immer eine dünne Scheibe übrig, die sich nicht mehr sinnvoll reiben lässt. Das Produkt versagt auf der funktionalen Ebene, da es seine Hauptaufgabe ineffizient erfüllt. Zusätzlich leidet die Benutzerfreundlichkeit, weil der Prozess unnötig anstrengend und unpräzise ist."
   },
   {
     "id": "assignment_13",
+    "keywords": [
+      "Teilhabe"
+    ],
     "tag": "Assignment",
     "number": "13",
     "photo": "assignment13.jpeg",
-    "corner_text": "Gutes Design ist funktional und demokratisch, Artefakt",
-    "main_text": "hilft Menschen mit Sehschwäche\nunterstützt ältere Nutzer\nverbessert Lesbarkeit für alle (auch situativ, z. B. draußen)\nist oft ohne Zusatzkosten verfügbar\n Funktionsebene:\nerfüllt die soziale Funktion (Teilhabe ermöglichen)\nverbessert die kommunikative Funktion (Information wird verständlich)",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Gutes Design ist demokratisch – drei Artefakte",
+    "main_text": "1. Dynamische Textgröße: Sie hilft Menschen mit Sehschwäche, unterstützt ältere Nutzerinnen und Nutzer und verbessert die Lesbarkeit auch situativ, etwa draußen. Als integrierte Systemeinstellung ermöglicht sie Teilhabe häufig ohne Zusatzkosten.\n\n2. Abgesenkter Bordstein: Er wurde für Rollstühle entwickelt, erleichtert aber ebenso Menschen mit Kinderwagen, Rollatoren, Fahrrädern oder Gepäck die Bewegung durch den öffentlichen Raum. Das Artefakt zeigt, wie inklusive Gestaltung Zugänge verbreitert, ohne Nutzergruppen voneinander zu trennen.\n\n3. Öffentliche Bibliothek: Als räumliches und organisatorisches Design stellt sie Wissen, Arbeitsplätze und digitale Infrastruktur unabhängig vom Einkommen bereit. Orientierung, Ausleihe und Aufenthaltsqualität machen Information gemeinschaftlich zugänglich und unterstützen gesellschaftliche Teilhabe."
   },
   {
     "id": "assignment_14",
+    "keywords": [
+      "Synergie"
+    ],
     "tag": "Assignment",
     "number": "14",
     "photo": "",
     "corner_text": "Übung, rhetorische Diskussion, zu zweit, mit Maeva, ich vertrete Position „Teamplayer“",
-    "main_text": "Ich denke dass man in einem Team besser aufgaben verteilen kann, Thema Nachhaltigkeit, Zeit  und Expertise also Energie.\nManchmal kommen im Team Ergebnisse zustande die erst aus der Synergie entspringen können.\nTeam agiert als eine sich immer neuformende Projektionsfläche, also reflektiert man die eignen Gedanken durch die Aussprache, so bekommen sie einen handfesten Realitätsbezug -> Funktion Spiegel der Intuition, Team als Methode;\nVerantwortungsaufteilung",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Ich denke dass man in einem Team besser aufgaben verteilen kann, Thema Nachhaltigkeit, Zeit  und Expertise also Energie.\nManchmal kommen im Team Ergebnisse zustande die erst aus der Synergie entspringen können.\nTeam agiert als eine sich immer neuformende Projektionsfläche, also reflektiert man die eignen Gedanken durch die Aussprache, so bekommen sie einen handfesten Realitätsbezug -> Funktion Spiegel der Intuition, Team als Methode;\nVerantwortungsaufteilung"
   },
   {
     "id": "assignment_15",
+    "keywords": [
+      "Eindeutig"
+    ],
     "tag": "Assignment",
     "number": "15",
     "photo": "stopp15.png",
     "corner_text": "Gutes Design ist informativ, Artefakt",
-    "main_text": "Gutes Design informiert klar und eindeutig. Dies lässt sich anhand von Kriterien wie Sichtbarkeit, Verständlichkeit und schneller Wiedererkennbarkeit beurteilen. Ein Beispiel ist das Stoppschild im Straßenverkehr. Seine rote Farbe signalisiert Gefahr und Aufmerksamkeit, während die achteckige Form es von anderen Verkehrsschildern unterscheidet. Zusätzlich sorgt die große, kontrastreiche Schrift dafür, dass die Botschaft schnell erfasst wird. Dadurch können Verkehrsteilnehmer auch unter Zeitdruck richtig reagieren. Das Design erfüllt somit die Aufgabe, Informationen effizient und möglichst fehlerfrei zu vermitteln.\n\ninformierend: Stehen bleiben!\ninformative Ebene: Gefährliche Stelle!",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Gutes Design informiert klar und eindeutig. Dies lässt sich anhand von Kriterien wie Sichtbarkeit, Verständlichkeit und schneller Wiedererkennbarkeit beurteilen. Ein Beispiel ist das Stoppschild im Straßenverkehr. Seine rote Farbe signalisiert Gefahr und Aufmerksamkeit, während die achteckige Form es von anderen Verkehrsschildern unterscheidet. Zusätzlich sorgt die große, kontrastreiche Schrift dafür, dass die Botschaft schnell erfasst wird. Dadurch können Verkehrsteilnehmer auch unter Zeitdruck richtig reagieren. Das Design erfüllt somit die Aufgabe, Informationen effizient und möglichst fehlerfrei zu vermitteln.\n\ninformierend: Stehen bleiben!\ninformative Ebene: Gefährliche Stelle!"
   },
   {
     "id": "assignment_16",
+    "keywords": [
+      "Demokratisch"
+    ],
     "tag": "Assignment",
     "number": "16",
     "photo": "assignment16.png",
     "corner_text": "Demo, kratisch, Problem, Lösung, Gruppenarbeit",
-    "main_text": "Problem:\nEssen wird weggeschmissen, Containern ist verboten\nLösung:\nKühlschränke in der Stadt verteilen oder offizielle Sammelstellen anbieten, wo man Lebensmittel hinbringen kann.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Problem:\nEssen wird weggeschmissen, Containern ist verboten\nLösung:\nKühlschränke in der Stadt verteilen oder offizielle Sammelstellen anbieten, wo man Lebensmittel hinbringen kann."
   },
   {
     "id": "assignment_17",
+    "keywords": [
+      "Manipulation"
+    ],
     "tag": "Assignment",
     "number": "17",
     "photo": "assignment17.png",
     "corner_text": "Manipulatives Design",
-    "main_text": "Viele Verpackungen sind absichtlich so gestaltet, dass sie größer wirken, als der Inhalt tatsächlich ist. Dieses manipulative Design nutzt große Kartons, doppelte Böden oder viel leeren Raum, um Kundinnen und Kunden mehr Inhalt vorzutäuschen. Dadurch greifen Menschen eher zum Produkt, weil sie glauben, ein besseres Angebot zu bekommen. Besonders bei Chips, Süßigkeiten oder Kosmetik kommt diese Strategie häufig vor. Kritiker sehen darin eine Täuschung, da die Verpackung Erwartungen weckt, die das Produkt am Ende nicht erfüllt.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "main_text": "Viele Verpackungen sind absichtlich so gestaltet, dass sie größer wirken, als der Inhalt tatsächlich ist. Dieses manipulative Design nutzt große Kartons, doppelte Böden oder viel leeren Raum, um Kundinnen und Kunden mehr Inhalt vorzutäuschen. Dadurch greifen Menschen eher zum Produkt, weil sie glauben, ein besseres Angebot zu bekommen. Besonders bei Chips, Süßigkeiten oder Kosmetik kommt diese Strategie häufig vor. Kritiker sehen darin eine Täuschung, da die Verpackung Erwartungen weckt, die das Produkt am Ende nicht erfüllt."
   },
   {
     "id": "assignment_18",
+    "keywords": [
+      "Innovation",
+      "Nutzerorientierung",
+      "Trampelpfad"
+    ],
     "tag": "Assignment",
     "number": "18",
-    "photo": "assignment18.jpg",
-    "corner_text": "ausgefallen, rausgefallen",
-    "main_text": "- - - - - -",
-    "relationships": {
-      "semantisch": [
-        {
-          "id": "assignment_5",
-          "label": "thematische Nähe"
-        }
-      ],
-      "geschichtlich": [
-        {
-          "id": "assignment_12",
-          "label": "historischer Bezug"
-        },
-        {
-          "id": "notizen_2",
-          "label": "gleicher Kontext"
-        }
-      ],
-      "chronologisch": [
-        {
-          "id": "assignment_19",
-          "label": "folgt zeitlich darauf"
-        }
-      ]
-    }
+    "photo": "trampelpfad.png",
+    "corner_text": "Gutes Design ist innovativ – Trampelpfade",
+    "main_text": "Gutes Design gilt als innovativ, wenn es funktional, nutzerorientiert und effizient ist. Beurteilt wird es nach Kriterien wie Benutzerfreundlichkeit, Anpassung an menschliches Verhalten und praktischer Alltagstauglichkeit. Ein Beispiel dafür sind Gehwege, die dort gebaut werden, wo Menschen zuvor Trampelpfade im Gras hinterlassen haben. Diese Wege zeigen das tatsächliche Bewegungsverhalten der Nutzerinnen und Nutzer. Statt feste Routen vorzuschreiben, reagiert das Design auf reale Bedürfnisse. Dadurch entstehen Lösungen, die Ressourcen sparen, Wege verkürzen und den Komfort erhöhen. Innovatives Design verbindet somit Funktionalität mit Beobachtung menschlichen Verhaltens."
   },
   {
     "id": "assignment_19",
+    "keywords": [
+      "Nachhaltigkeit",
+      "Material",
+      "Langlebigkeit"
+    ],
     "tag": "Assignment",
     "number": "19",
     "photo": "assignment19.jpg",
-    "corner_text": "Gutes Design ist innovativ",
-    "main_text": "Gutes Design gilt als innovativ, wenn es funktional, nutzerorientiert und effizient ist. Beurteilt wird es nach Kriterien wie Benutzerfreundlichkeit, Anpassung an menschliches Verhalten und praktischer Alltagstauglichkeit. Ein Beispiel dafür sind Gehwege, die dort gebaut werden, wo Menschen zuvor Trampelpfade im Gras hinterlassen haben. Diese Wege zeigen das tatsächliche Bewegungsverhalten der Nutzerinnen und Nutzer. Statt feste Routen vorzuschreiben, reagiert das Design auf reale Bedürfnisse. Dadurch entstehen Lösungen, die Ressourcen sparen, Wege verkürzen und den Komfort erhöhen. Innovatives Design verbindet somit Funktionalität mit Beobachtung menschlichen Verhaltens.",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Gutes Design ist nachhaltig – Hanfgarn",
+    "main_text": "Hanfgarn als Designartefakt veranschaulicht die These ›Gutes Design ist nachhaltig‹ auf mehreren Ebenen zugleich. Hanf wächst schnell, benötigt kaum Pestizide und wenig Wasser, was die Nachhaltigkeit bereits auf der Materialebene verankert, bevor überhaupt ein Gestaltungsprozess beginnt. Das Garn selbst ist zudem langlebig und strapazierfähig, wodurch es Produkte hervorbringt, die nicht auf schnellen Verschleiß und Ersatz ausgelegt sind, sondern auf Dauer. Damit wird Nachhaltigkeit hier nicht als nachträglich hinzugefügtes Merkmal sichtbar, sondern als etwas, das im Material und in seiner Verarbeitung von Anfang an mitgedacht ist. Das Artefakt zeigt so, dass gutes Design nicht erst durch bewusste ökologische Zusatzentscheidungen entsteht, sondern bereits in der Wahl des Ausgangsstoffs beginnt."
   },
   {
     "id": "assignment_20",
     "tag": "Assignment",
     "number": "20",
     "photo": "assignment20.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #20",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Solange Taylor fliegt, darf ich machen was ich will",
+    "main_text": "Natürlich ist es wichtig, sich  nicht klimaschädlich zu verhalten. Hinter dem Argument der Wirkungslosigkeit, sich zu vertecken, ist doch feige!\n    Also vielleicht dann doch, statt den Kurzstreckenflug zu buchen, kann man dann den Zug nehmen.\n    Aber solange Geld mit Klimascheinen gemacht wird und Taylor Swift fliegt, können wir ab 1000km moralisch befreit fliegen."
   },
   {
     "id": "assignment_21",
     "tag": "Assignment",
     "number": "21",
-    "photo": "assignment21.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #21",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "assignment21-gleisdreieck.png",
+    "corner_text": "Gelb Gelb Gelb",
+    "main_text": "Die Gestaltung der Bahnen in der Stadt ist identitätsstiftend, in dem Sinne, dass sie die Identität aktiv prägt. \n    Aber ich sehe hier auch eine zweite Kausalrichtung: Ich denke, dass auch die Stadt der U-Bahn erst eine Bedeutung gibt. \n    Die gelbe U-Bahn muss also auch erst zum Symbol gemacht werden. Wobei die erste Lesart eher zum Bahnmotiv passt."
   },
   {
     "id": "assignment_22",
     "tag": "Assignment",
     "number": "22",
-    "photo": "assignment22.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #22",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Markentagebuch",
+    "main_text": "Nivea\nImage\nVertrauen und Pflege\nFamilienmarke\nTradition und Qualität\nHautfreundliche Produkte\nIdentifikation\nViele Menschen nutzen Nivea seit ihrer Kindheit\nGefühl von Verlässlichkeit und Sicherheit\nStarke emotionale Bindung\nKritik\nTeilweise Verwendung von problematischen Inhaltsstoffen\nPlastikverpackungen belasten die Umwelt\nNicht alle Produkte sind vegan\nUniqlo\nImage\nSchlichte und moderne Kleidung, Funktionalität und Komfort, Gutes Preis-Leistungs-Verhältnis, Minimalistisches Design\nIdentifikation\nMenschen mit praktischem Kleidungsstil, Fokus auf Alltagstauglichkeit, Zeitlose Mode statt Trends\nKritik\nFast-Fashion-Aspekte, Produktionsbedingungen werden diskutiert, Weniger individuelle Designs\nLavazza\nImage\nItalienische Kaffeekultur, Hochwertiger Kaffee, Tradition und GenussPremium-Marke\nIdentifikation\nKaffeeliebhaber fühlen sich angesprochen, Verbindung zu italienischem Lebensstil, Genuss und Qualität im Alltag\nKritik\nHöhere Preise als Eigenmarken, Verpackungsmüll durch Kapselsysteme, Nachhaltigkeit wird teilweise hinterfragt\n\nEdeka Bio\nImage\nNachhaltigkeit und Umweltbewusstsein, Regionale und biologische Produkte, Gesunde Ernährung, Vertrauenswürdige Bio-Marke, günstiger als Biocompany etc.\nIdentifikation\nBewusste Konsumenten, Unterstützung nachhaltiger Landwirtschaft, Interesse an gesunder Ernährung\nKritik\nBio-Produkte oft teurer, Herkunft der Produkte nicht immer transparent, Teilweise Kritik an Verpackungsmaterialien\n\nMarke wird zunehmend als Modetrend statt Outdoor-Marke wahrgenommen\n\nKarls Erdbeerhof\nImage\nFamilienfreundlich\nRegionale Produkte\nErlebnisbauernhof\nTradition und Freizeitspaß\nIdentifikation\nVerbundenheit mit regionalen Produkten\nFreizeit- und Familienerlebnisse\nKritik\nStarke Kommerzialisierung\nHohe Besucherzahlen können störend sein\nPreise für Attraktionen und Produkte teilweise hoch\nApple\nImage\nInnovation und Design\nPremium-Technologie\nModern und hochwertig\nStatussymbol\nIdentifikation\nNutzer sehen sich als technikaffin\nZugehörigkeit zur Apple-Community\nEinfaches und elegantes Nutzererlebnis\nKritik\nSehr hohe Produktpreise\nGeschlossenes Ökosystem\nReparaturen oft teuer und schwierig\nKritik an Arbeitsbedingungen bei Zulieferern\nThe North Face\nImage\nOutdoor und Abenteuer\nRobustheit und Qualität\nSportlichkeit\nNachhaltigkeitsengagement\nIdentifikation\nOutdoor-Enthusiasten und Reisende\nAktiver Lebensstil\nNaturverbundenheit\nKritik\nHohe Preise\nProduktion in Niedriglohnländern\nNachhaltigkeitsversprechen werden teilweise kritisch betrachtet"
   },
   {
     "id": "assignment_23",
     "tag": "Assignment",
     "number": "23",
-    "photo": "assignment23.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #23",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Das Markenmodell meiner Selbst",
+    "main_text": "Mein persönliches Markenmodell stütze ich auf die Identitätsnarration in Abhängigkeit zur Umwelt als Ausdruck des Egos. \n    Ich denke, dass der Kern dessen, wer wir sind, nur innerhalb der Narration passiert. Die Narration ist jedoch vollständig wahr und real. \n    Also haben wir es hier mit einer Dualität zu tun, die sich als Nondualität kleidet – oder andersrum. Wir sind die Dinge, mit denen wir uns identifizieren, \n    die Dinge, die wir ablehnen – wir sind etwas. Aber diese Adjektive entstehen nur in Relation zur Außenwelt, und erst dann entwickeln sie ihre Wirkung. \n    Denn ein Satz wie „ich bin so und so” wird erst real, wenn er Folgen hat. Das ist die Narration. Der Kern existiert in ihr. \n    Wenn wir aber erkennen, dass die Narration eine Formation des Egos ist, dann werden wir frei. Meine Narrative sind, wie im Assignment beschrieben, \n    hauptsächlich die Identifizierung mit Pathologien aus der Vergangenheit und darauf basierenden Ängsten vor der Zukunft. \n    Ich denke, dass sowohl die Arbeit in der Dualität – also die therapeutische, soziale und introspektive, erdische Auseinandersetzung – an dieser Stelle befreien kann, \n    als auch die seelische Arbeit: das Erkennen und Verweilen in der Nondualität, das Durchbrechen des Narrativs, ohne in der Dualität zu verkleben. \n    Um in Referenz zu existierenden Modellen zu sprechen: Ich beziehe mich hier auf Ricoeurs narrative Identität – mit dem Unterschied, \n    dass ich die Narration nicht nur als epistemisches, sondern auch als ego-strukturelles Phänomen begreife, dessen Transzendenz möglich und notwendig ist."
   },
   {
     "id": "assignment_24",
     "tag": "Assignment",
     "number": "24",
-    "photo": "assignment24.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #24",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "assignment30.png",
+    "corner_text": "My Influences – The Story of My Life",
+    "main_text": "Diese Timeline versammelt Menschen, Bücher, Filme, Gestalterinnen, Gestalter und Objekte, die mein Denken, meinen visuellen Geschmack und mein Wertesystem geprägt haben. Sie versteht Einfluss nicht als lineare Abfolge einzelner Vorbilder, sondern als Netzwerk: Manche Einflüsse begleiten mich über lange Zeit, andere tauchen nur kurz auf und verändern dennoch eine bestimmte Haltung oder Entscheidung. Übernommenes steht dabei neben bewusster Abgrenzung. So wird sichtbar, dass Geschmack und gestalterische Identität nicht isoliert entstehen, sondern aus Begegnungen, Wiederholungen, Widersprüchen und Veränderungen. Die Timeline dokumentiert deshalb weniger eine abgeschlossene Entwicklung als einen fortlaufenden Prozess, in dem persönliche Erfahrungen und kulturelle Referenzen immer wieder neu miteinander verbunden werden."
   },
   {
     "id": "assignment_25",
     "tag": "Assignment",
     "number": "25",
-    "photo": "assignment25.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #25",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "steve-jobs-apple-historie-2.jpg",
+    "corner_text": "Gutes Design ist widerständig – Smartphone",
+    "main_text": "Ich habe das Assigment ganz klar so verstanden, dass das Design nicht inhaltlich eine Message ist, \n    sondern dass die Gestaltung unverändert bleibt. Somit dachte ich an das Handy, bzw. das Smartphone."
   },
   {
     "id": "assignment_26",
     "tag": "Assignment",
     "number": "26",
-    "photo": "assignment26.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #26",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "MaEniFeISTO",
+    "main_text": "Interaction design needs strong and bold visual and conceptual gestures to push beyond the borders of habitual systems and reshape them into flexible, modern solutions. Within this freedom, usability and logic bridge the initial vision with the newly opened paths. \n    Complexity is a condition to be met, optionally through immersive, context-appropriate form. The desktop is a structurally limited surface, although its potential through practicability is immense. Other environments demand other logics. Intuition is the primary instrument. \n    Methodology serves it and not the other way around. When something feels uncertain, evidence helps – but when a decision is clear, process is waste.\n    The produced should always be beautiful. It bridges logic and aesthetics, holds opposing forces in productive tension, and occupies the space between familiarity and disintegration – in order to challenge mental models, innovate, and enter into ambiguity as a sign of multiperspectivity and differentiation."
   },
   {
     "id": "assignment_27",
     "tag": "Assignment",
     "number": "27",
-    "photo": "assignment27.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #27",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "assignment27-blindenleitsystem.png",
+    "corner_text": "Gutes Design ist intersektional – S-Bahn-Leitsystem",
+    "main_text": "Kombiniert Farbigkeit und Haptik"
   },
   {
     "id": "assignment_28",
     "tag": "Assignment",
     "number": "28",
-    "photo": "assignment28.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #28",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Discrimination Follows Design",
+    "main_text": "1. Exotisierung — Dolce & Gabbana \"Eating with Chopsticks\" (2018)\nWerbekampagne für die Shanghai-Show zeigte eine chinesische Frau, die unbeholfen versucht, italienisches Essen mit Stäbchen zu essen, begleitet von einem herablassenden Voiceover (\"Is it too big for you?\"). Nach durchgesickerten rassistischen Nachrichten von Mitgründer Stefano Gabbana eskalierte der Skandal: Die Shanghai-Show wurde abgesagt, Produkte aus chinesischen Onlineshops entfernt, Stores von Protesten umringt.\n\n2. Rassismus — H&M \"Coolest Monkey in the Jungle\" (2018)\nEin 5-jähriger Schwarzer Junge modelte einen Hoodie mit der Aufschrift \"coolest monkey in the jungle\" — eine Anspielung, die historisch rassistische Affen-Vergleiche gegenüber Schwarzen Menschen reproduziert. Folge: Ladenvandalismus, Boykotte durch The Weeknd u. a., Aktienkurs-Einbruch, Einstellung einer Diversity-Verantwortlichen.\n\n3. Othering — \"Expat\" vs. \"Migrant\" in der Medien-/Alltagssprache\nWohlhabende (meist weiße) Auswanderer werden als \"Expats\" bezeichnet (positiv konnotiert: Abenteuer, Freiheit), während Menschen aus ärmeren Ländern bei identischer Migration als \"Migranten\" gelten (negativ konnotiert: Belastung, Bedrohung). Sprachforschung zeigt: Dieselbe Handlung wird je nach Herkunft/Klasse unterschiedlich benannt und bewertet — ein klassisches Othering-Muster.\n\n4. Non-inclusive Gendering — BGH-Urteil zu Sparkassen-Formularen (2018)\nEine 80-jährige Kundin klagte, weil sie in Bankformularen durchgehend nur als \"Kunde\", \"Sparer\", \"Kontoinhaber\" (generisches Maskulinum) angesprochen wurde. Der Bundesgerichtshof wies die Klage ab: Frauen hätten keinen Anspruch auf geschlechtsspezifische Anrede in Formularen. Das Bundesverfassungsgericht nahm die anschließende Beschwerde nicht zur Entscheidung an.\n\n5. Kulturelle Aneignung — Gucci \"Indy Full Turban\" (2018) & Kim Kardashians \"Kimono\" (2019)\nGucci verkaufte einen Sikh-Turban (religiöses Symbol) für 790 $ als Modeaccessoire auf weißen Models, während Sikhs für das Tragen desselben Kleidungsstücks alltäglich diskriminiert werden. Ähnlich musste Kim Kardashian ihre Shapewear-Marke \"Kimono\" nach über 130.000 Unterschriften einer Petition und einem offiziellen Brief des Bürgermeisters von Kyoto in \"SKIMS\" umbenennen."
   },
   {
     "id": "assignment_29",
     "tag": "Assignment",
     "number": "29",
     "photo": "assignment29.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #29",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Gutes Design ist lernbar",
+    "main_text": "Figma ❤️"
   },
   {
     "id": "assignment_30",
     "tag": "Assignment",
     "number": "30",
-    "photo": "assignment30.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "",
+    "corner_text": "Mensch!ich",
+    "main_text": "Design ist menschlich, von Mensch gemacht, konzipiert, gestaltet, umgesetzt. Interessant wie schnell doch der Mensch wieder wichtig wurde!"
   },
   {
     "id": "assignment_31",
     "tag": "Assignment",
     "number": "31",
-    "photo": "assignment31.jpg",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "photo": "schon_1.jpg",
+    "corner_text": "Mini-Ausstellungen zu zehn Thesen",
+    "main_text": "Zehn Mini-Ausstellungen versammeln konkrete Artefakte, Projekte, visuelle Systeme und digitale Werkzeuge zu den zehn Thesen des Kurses. Die Auswahl versteht die Thesen nicht als feste Qualitätsurteile, sondern als unterschiedliche Blickwinkel auf Gestaltung: Schönheit zeigt sich in historischen Sardinendosen, Funktion in unmittelbar lesbaren Sicherheitsprodukten, Demokratie in zugänglicher Abstimmungsinformation und Innovation sowohl in spekulativen Zukünften als auch in historischen Technologien. Nachhaltigkeit, Identität, Widerstand, Intersektionalität und Lernbarkeit werden ebenfalls durch mehrere Beispiele miteinander in Beziehung gesetzt."
   },
   {
     "id": "assignment_32",
     "tag": "Assignment",
     "number": "32",
     "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Zehn Diskursfelder in der Gegenwart",
+    "main_text": "Zum Thema „Gutes Design ist demokratisch\" hätte mich besonders die Auseinandersetzung mit der Frage interessiert, wo Design Politik ist. Es ist eine komische Grenze – wenn man zum Beispiel für staatliche Anwendungen gestaltet, da ist so viel Politik mit drin, dass Themen wie Accessibility oder Usability teilweise politisiert werden. Das finde ich spannend und irgendwie auch unausweichlich.\n\nUnd dann natürlich KI. Demokratisiert sie Design wirklich – oder verschiebt sie nur die Machtfrage? Und Open Source, Demokratisierung oder Nivellierung? Aber die große Emphase liegt für mich auf KI. Wer trainiert die Modelle? Wer profitiert? Wer wird dabei unsichtbar gemacht? Das sind keine Randfragen mehr – das ist mega, mega, omega wichtig.\n\nZum Thema „Gutes Design ist schön\" hätte mich interessiert, wie sich die These im Zuge von KI erweitern lässt. Muss Schönheit menschengemacht sein, um als solche zu gelten? Die klassische Antwort wäre ja – Schönheit entsteht im Dialog, sie ist subjektiv, sie berührt. Aber was, wenn sie von einer Maschine erzeugt wird? Reicht das Ergebnis, oder braucht es den Menschen dahinter?\n\nUnd gleichzeitig wird Schönheit gerade immer mehr zum Statement. Dries van Noten hat 2026 in Venedig eine Ausstellung eröffnet – „The Only True Protest Is Beauty\", ein Zitat des amerikanischen Songwriters und politischen Aktivisten Phil Ochs, der schrieb: „In such ugly times, the only true protest is beauty.\" Schönheit wird hier nicht als bloße Ästhetik verstanden, sondern als ein Moment der Intensität – eine aufgeladene Begegnung, eine unerwartete Harmonie, oder eine subtile Störung, die aufzurütteln und Raum für Neues zu schaffen vermag. Das finde ich stark. Schönheit als Widerstand – das ist keine Flucht aus der Welt, sondern eine Art, ihr zu begegnen.\n\nZum Thema „Design ist identitätsstiftend\" hätte mich interessiert, wie sich diese These angesichts einer Welt verhält, in der Identität selbst immer fließender und flexibler wird. Zygmunt Bauman – polnisch-britischer Soziologe, hat das in „Liquid Modernity\" beschrieben: Identitäten sind nicht mehr fest, sie sind im ständigen Umbau, temporär, selbst konstruiert. Früher hat Design vielleicht eine stabile Identität repräsentiert – eine Klasse, eine Kultur, eine Nation. Heute ist die Frage komplizierter. Wenn Identität flüssig ist, was stiftet Design dann noch? Kann es überhaupt noch stiften, oder begleitet es nur noch – dokumentiert, spiegelt, bleibt offen? Ich finde das ist keine Schwächung der These, sondern eine Erweiterung. Design ist identitätsstiftend – aber vielleicht nicht mehr im Sinne von Festigung, sondern im Sinne von Ermöglichung. Es gibt Raum für das, was man gerade ist, und für das, was man gerade wird."
   },
   {
     "id": "assignment_33",
     "tag": "Assignment",
     "number": "33",
     "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "ca. 500 geprägte Worte",
+    "main_text": "Erste hundert Wörter werde ich so bisschen hin und her schreiben und umdenken und Wörter wie „ohh” benutzen, also Füllworte. Es ist um zu zeigen, dass ich finde, dass das hier ein wenig zu viel ist – und sie lesen ja alles am Ende nicht. Also ich weiß,  es ist für uns gedacht, es ist ja ein Studium. Aber ich fühle mich bisschen wie in der Schule. Ich habe damals eine Zeichnung gemalt, es war ein Wurm, ja kafkaesk, und der Wurm war in so einem Kasten eingekästelt. Der Kasten war rechteckig und der Wurm fluffig – und das hat halt auf dieser Ebene der Haptik, des Materials, der Physik dieser beiden Entitäten nicht gepasst. Deswegen hat diese Website so viele Kästen. So viele wie es Assignments gab, oder sogar noch mehr.\n\nAlso musste ich mich  viel mit meinem Autoritätsproblem auseinandersetzen – weil ich gerne lerne, aber nicht wenn ich das Gefühl habe, dass ich darunter untergehe oder Unklarheiten entstehen. Ich bin sehr autonom und nur so funktioniere ich auch, schade ist das, aber so ist es halt. Also eine große Erkenntnis ist, dass ich gerne mehr mitgemacht hätte und diesen Text inhaltlich gestalten würde.\n\nHmm, vielleicht mache ich das ja jetzt mal.\n\nAlso eine große Sache ist, dass in der Analyse immer die Positionierung und Perspektivierung zu nennen ist. Ein Artefakt kann kaum objektiv bewertet werden, deswegen können die ganzen Definitionen nicht verallgemeinert werden – es ist immer subjektiv. Entweder beeinflusst und übernommen, oder manipulierend, oder unbewusst manipulierend, oder manchmal auch sich als authentisch verkaufend – aber dann eben immer noch beeinflusst.\nUnd daraus – und hauptsächlich aus dem Thema des Talents, dass sie mehrmals angeführt hat – ist in einer versoffenen Nacht eine schöne Diskussion entstanden. Die hat sich zwar, unter Einfluss, in einem Kreis gedreht und ist wie immer mit meinen Leipziger Freunden bei Geist und Seele angelangt – aber trotzdem, sie hat stattgefunden. Ich konnte beitragen, indem ich meinte: meine Professorin, Dr. Julia Meer, sie glaubt nicht an Talent, es ist alles beeinflusst. Und ich glaube, es stimmt – aber ab wann sind wir beeinflusst? Ab dem Moment, wo es ein Bewusstsein gibt, das die Erfahrungen des Körpers verarbeitet? Also vor der Geburt – aber dann wird man ja mit Talent geboren?! Eine lustige Wendung hat sich dabei herauskristallisiert, aber auch erst im Nachhinein – denn in der Diskussion war ich der Meinung, dass wenn man ja eine Seele hat, dann werden Erfahrungen übertragen. Und die Verbindung zur Geburt habe ich dann nicht mehr geschafft zu machen.\nIch glaube, die Idee der Seele macht das Ganze noch interessanter. Egal, wann eine Prägung stattfindet – sie geschieht, und sie erzeugt die Illusion eines natürlichen Talents, selbst wenn sie sehr früh oder sogar vorgeburtlich passiert. In diesem Sinne gibt es so etwas wie Talent, wenn man davon ausgeht, dass man mit Talent geboren wird. Es geht also gar nicht um den Zeitpunkt: Man kann mit Talent geboren werden, und das widerspricht nicht der Tatsache, dass Talent zugleich eine Prägung ist."
   },
   {
     "id": "assignment_34",
     "tag": "Assignment",
     "number": "34",
     "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
-  },
-  {
-    "id": "assignment_35",
-    "tag": "Assignment",
-    "number": "35",
-    "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
-  },
-  {
-    "id": "assignment_36",
-    "tag": "Assignment",
-    "number": "36",
-    "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
-  },
-  {
-    "id": "assignment_37",
-    "tag": "Assignment",
-    "number": "37",
-    "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
-  },
-  {
-    "id": "assignment_38",
-    "tag": "Assignment",
-    "number": "38",
-    "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
-  },
-  {
-    "id": "assignment_39",
-    "tag": "Assignment",
-    "number": "39",
-    "photo": "",
-    "corner_text": "",
-    "main_text": "Replace with your assignment text #30",
-    "relationships": {
-      "semantisch": [],
-      "geschichtlich": [],
-      "chronologisch": []
-    }
+    "corner_text": "Publikation – Design(ing) History",
+    "main_text": "Replace with your assignment text"
   }
 ]

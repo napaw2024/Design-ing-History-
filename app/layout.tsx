@@ -15,6 +15,15 @@ const geistMono = Geist_Mono({
 export const metadata: Metadata = {
   title: "Design(ing) History — Kursdokumentation",
   description: "Eine interaktive, subjektive Kartografie von Design, Alltag und Geschichte.",
+  robots: {
+    index: false,
+    follow: false,
+    googleBot: {
+      index: false,
+      follow: false,
+      noimageindex: true,
+    },
+  },
   openGraph: {
     title: "Design(ing) History",
     description: "Interaktive Kursdokumentation: Design, Alltag und Geschichte als offenes Archiv.",
