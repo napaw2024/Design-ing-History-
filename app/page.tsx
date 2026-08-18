@@ -265,9 +265,11 @@ export default function Home(){
         const dimmed=Boolean(hovered&&hovered!==entry.id&&!connectedIds.has(entry.id));
         const highlighted=hovered===entry.id||connectedIds.has(entry.id);
         return <button data-entry-id={entry.id} key={entry.id} className={`note note-${index%5} ${dimmed?"is-dimmed":""} ${highlighted?"is-highlighted":""}`} style={{left:`${x}%`,top:`${y}%`}} onMouseEnter={()=>setHovered(entry.id)} onMouseLeave={()=>setHovered(null)} onFocus={()=>setHovered(entry.id)} onBlur={()=>setHovered(null)} onClick={()=>setActive(entry)} aria-label={`Notiz ${entry.number} öffnen`}>
-          <b>N{entry.number}</b>
-          <span>{placeholder ? (clean(entry.corner_text)||`Notiz ${entry.number}`) : clean(entry.main_text).slice(0,105)}</span>
-          <span className="hover-title">{clean(entry.corner_text)||`Notiz ${entry.number}`}</span>
+          <span className="note-preview"><b>N{entry.number}</b><span>{placeholder ? (clean(entry.corner_text)||`Notiz ${entry.number}`) : clean(entry.main_text).slice(0,105)}</span></span>
+          <span className="hover-card" aria-hidden="true">
+            <span className="hover-card-head"><b>N{entry.number}. NOTIZ</b><strong>{clean(entry.corner_text)||`Notiz ${entry.number}`}</strong></span>
+            <span className="hover-card-copy">{placeholder?"Noch nicht ausgearbeitet.":clean(entry.main_text).slice(0,220)}{!placeholder&&clean(entry.main_text).length>220?"…":""}</span>
+          </span>
         </button>
       })}
     </section>}
