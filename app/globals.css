@@ -254,13 +254,13 @@ footer .footer-author{align-self:auto;font-family:Helvetica,Arial,sans-serif;fon
 .order-thesis.is-selected.is-active{box-shadow:inset 0 -4px 0 #fff}
 .order-row{position:absolute;left:.45vw;right:.45vw;display:flex;align-items:flex-start;overflow:hidden}
 .order-notes{top:15%;height:29%}.order-assignments{top:44%;height:90vh}
-.order-column{display:block;position:relative;z-index:1;align-self:flex-start;flex:1 1 0;min-width:0;height:90vh;margin:0;padding:8px 5px 48vh;border:0;border-left:1px solid #000;background:transparent;overflow:hidden;text-align:left;vertical-align:top;cursor:pointer;appearance:none;transition:flex-grow .42s cubic-bezier(.22,1,.36,1),background-color .28s ease,opacity .3s ease,filter .3s ease}
+.order-column{display:flex;flex-direction:column;justify-content:flex-start;align-items:stretch;position:relative;top:0!important;z-index:1;align-self:flex-start;flex:1 1 0;min-width:0;height:90vh;margin:0;padding:8px 5px 48vh;border:0;border-left:1px solid #000;background:transparent;overflow:hidden;text-align:left;vertical-align:top;cursor:pointer;appearance:none;transform:none;transition:flex-grow .42s cubic-bezier(.22,1,.36,1),background-color .28s ease,opacity .3s ease,filter .3s ease}
 .order-column.is-thesis-dimmed{opacity:.055;filter:grayscale(1);pointer-events:none}
 .order-column.is-thesis-match{opacity:1;filter:none}
 .order-note{height:34vh;padding-bottom:12vh}
 .order-column:last-child{border-right:1px solid #000}
-.order-column .order-kicker{display:block;height:var(--order-meta-size);padding:0;margin:0 0 6px;font:900 var(--order-meta-size)/1 Helvetica,Arial,sans-serif;white-space:nowrap}
-.order-column strong{display:block;width:100%;margin:0;padding:0;font:700 13px/.95 "Sneaky Times",serif;white-space:normal;max-height:58px;overflow:hidden}
+.order-column .order-kicker{display:block;flex:0 0 auto;height:auto;min-height:var(--order-meta-size);padding:0;margin:0 0 6px;font:900 var(--order-meta-size)/1 Helvetica,Arial,sans-serif;white-space:nowrap}
+.order-column strong{display:block;flex:0 0 auto;width:100%;margin:0;padding:0;font:700 13px/.95 "Sneaky Times",serif;white-space:normal;max-height:58px;overflow:hidden}
 .order-column img{display:block;width:100%;height:12vh;object-fit:contain;margin:10px 0;opacity:.55}
 .order-copy{display:block;font:400 7px/1.12 "Sneaky Times",serif;opacity:.72;max-height:75vh;overflow:hidden}
 .order-row.has-row-hover .order-column{flex-grow:.48}
