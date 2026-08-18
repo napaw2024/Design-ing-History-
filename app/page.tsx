@@ -232,7 +232,7 @@ export default function Home(){
       })}
     </svg>}
     <header>
-      <h1>DESIGN(ING) HISTORY</h1>
+      <h1><span>DESIGN(ING)</span><span>HISTORY</span></h1>
       <p>Dokumentation der Assignments und Gedanken aus dem Kurs Design(ing) History – Überblick Designgeschichte und -theorie</p>
       <div className="toggle-row"><nav className="view-toggle" aria-label="Ansicht wählen"><button className={view==="chaos"?"active":""} onClick={()=>{setView("chaos");setHovered(null);setOrderThesisHover(null)}}>CHAOS ?</button><button className={view==="order"?"active":""} onClick={()=>{setView("order");setHovered(null);setOrderThesisHover(null)}}>ORDNUNG ?</button></nav></div>
     </header>
